@@ -1,2 +1,2 @@
 # Multiple-Linear-Regression
-Multiple Linear Regression with Math + Code
+This repo contains Code implementation for Multiple Linear Regression using OLS (Ordinary Least Square) and also contains Mathematical Formulation.
